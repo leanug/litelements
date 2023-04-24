@@ -1,8 +1,0 @@
-{
-  "build": {
-    "env": {
-      "GIT_COMMIT_SHA": "${VERCEL_GIT_COMMIT_SHA}",
-      "GIT_BRANCH": "${VERCEL_GIT_BRANCH}"
-    }
-  }
-}
